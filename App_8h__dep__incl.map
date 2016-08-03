@@ -1,0 +1,12 @@
+<map id="library/App.h" name="library/App.h">
+<area shape="rect" id="node2" href="$AppManager_8cpp.html" title="library/AppManager.cpp" alt="" coords="11,80,169,107"/>
+<area shape="rect" id="node3" href="$ButtonTestApp_8h.html" title="library/ButtonTestApp.h" alt="" coords="5,163,163,189"/>
+<area shape="rect" id="node5" href="$MenuApp_8h.html" title="library/MenuApp.h" alt="" coords="246,80,372,107"/>
+<area shape="rect" id="node7" href="$StaticDisplayApp_8h.html" title="library/StaticDisplayApp.h" alt="" coords="415,80,588,107"/>
+<area shape="rect" id="node10" href="$SystemSettingsApp_8h.html" title="library/SystemSettingsApp.h" alt="" coords="753,80,940,107"/>
+<area shape="rect" id="node4" href="$AppManager_8ino.html" title="Example with application manager. Intended to be used as the badge firmware. " alt="" coords="253,246,448,287"/>
+<area shape="rect" id="node6" href="$MenuApp_8cpp.html" title="library/MenuApp.cpp" alt="" coords="239,163,379,189"/>
+<area shape="rect" id="node8" href="$ProfileApp_8h.html" title="library/examples/AppManager\l/ProfileApp.h" alt="" coords="404,155,599,197"/>
+<area shape="rect" id="node9" href="$StaticDisplayApp_8cpp.html" title="library/StaticDisplayApp.cpp" alt="" coords="623,163,809,189"/>
+<area shape="rect" id="node11" href="$SystemSettingsApp_8cpp.html" title="library/SystemSettingsApp.cpp" alt="" coords="884,163,1087,189"/>
+</map>
